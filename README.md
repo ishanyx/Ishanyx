@@ -1,14 +1,32 @@
-👋 Welcome to my profile! I'm Ishan Choudhary, a passionate developer:
- 
-- 💻 Frontend Web Developer
-- ⚛️ Learning Data Structure Development
-- 🎨 UI/UX Design Enthusiast
-- 🤖 Exploring AI & Creative Tech 
-- 🚀 Building Real World Projects
-- 📚 BCA Student
-- 🎯 Looking For Internship Opportunities
-- 🧠 Problem Solver
-- ⚡ Consistent Learner
+# 👋 Hey, I'm Ishan
 
-Feel free to connect via email at "ishanchoudhary244@gmail.com"  
+💻 Frontend Developer    
+🤖 Exploring AI & Creative Tech  
+🚀 Building Real World Projects  
+
+---
+
+# ⚒️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React
+
+### CSS Frameworks
+Bootstrap • Tailwind CSS
+
+### Tools
+Git • GitHub • VS Code • Figma
+
+---
+
+# 📚 Currently Learning
+
+- Data Structures & Algorithms
+---
+
+# 🌐 Connect With Me
+
+📧 ishanchoudhary244@gmail.com  
 Let's build something awesome together 🚀
+
+> ⚡ "Discipline beats motivation."
