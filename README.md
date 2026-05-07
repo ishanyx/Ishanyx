@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ishan
 
-💻 MERN Stack Developer    
+💻 Full Stack Developer    
 🤖 Exploring AI & Creative Tech  
 🚀 Building Real World Projects  
 
