@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Ishan
 
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius:50%" />
-
 ### 🚀 BCA Student • Frontend Developer • UI/UX Explorer
 
 </div>
