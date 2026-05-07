@@ -1,46 +1,14 @@
-<div align="center">
+👋 Welcome to my profile! I'm Ishan Choudhary, a passionate developer:
 
-# 👋 Hey, I'm Ishan
+- 💻 Frontend Web Developer
+- ⚛️ Learning Data Structure Development
+- 🎨 UI/UX Design Enthusiast
+- 🤖 Exploring AI & Creative Tech
+- 🚀 Building Real World Projects
+- 📚 BCA Student
+- 🎯 Looking For Internship Opportunities
+- 🧠 Problem Solver
+- ⚡ Consistent Learner
 
-### 🚀 BCA Student • Frontend Developer • UI/UX Explorer
-
-</div>
-
----
-
-
-# 🛠️ Tech Stack
-
-### 🚀 Frontend Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
----
-
-## 🌌 About Me
-
-- 💻 Learning modern web development
-- ⚛️ Currently learning **DSA**
-- 🎨 Interested in **UI/UX Design & Creative Interfaces**
-- 🤖 Exploring **AI Projects & Automation**
-- 🧠 Building projects to improve coding skills daily
-- 🎯 Looking for a paid internship opportunity
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: `YOUR_LINKEDIN`
-- 📧 Email: `YOUR_EMAIL`
-- 🌍 Portfolio: `YOUR_PORTFOLIO`
-
----
-
-<div align="center">
-
-### ⚡ “Discipline beats motivation.”
-
-</div>
+Feel free to connect via email at "ishanchoudhary244@gmail.com"  
+Let's build something awesome together 🚀
