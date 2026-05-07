@@ -8,17 +8,6 @@
 
 ---
 
-## 🌌 About Me
-
-- 💻 Learning modern web development
-- ⚛️ Currently learning **React & JavaScript**
-- 🎨 Interested in **UI/UX Design & Creative Interfaces**
-- 🤖 Exploring **AI Projects & Automation**
-- 🧠 Building projects to improve coding skills daily
-- 🎯 Looking for a paid internship opportunity
-- 🎌 Anime fan — *Solo Leveling*
-
----
 
 # 🛠️ Tech Stack
 
@@ -27,19 +16,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-
----
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
