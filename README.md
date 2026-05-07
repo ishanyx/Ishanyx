@@ -18,6 +18,18 @@
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
+---
+
+## 🌌 About Me
+
+- 💻 Learning modern web development
+- ⚛️ Currently learning **DSA**
+- 🎨 Interested in **UI/UX Design & Creative Interfaces**
+- 🤖 Exploring **AI Projects & Automation**
+- 🧠 Building projects to improve coding skills daily
+- 🎯 Looking for a paid internship opportunity
+
+---
 
 # 🌐 Connect With Me
 
