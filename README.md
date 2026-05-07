@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ishan
 
-💻 Frontend Developer    
+💻 MERN Stack Developer    
 🤖 Exploring AI & Creative Tech  
 🚀 Building Real World Projects  
 
@@ -9,10 +9,11 @@
 # ⚒️ Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • React
+HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS
 
-### CSS Frameworks
-Bootstrap • Tailwind CSS
+### Backend
+Node.js • Express.js • MongoDB
+
 
 ### Tools
 Git • GitHub • VS Code • Figma
